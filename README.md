@@ -1,2 +1,34 @@
-# 5645dcf88889d79e-community-management-employee
-What if have 24/7 automated responses without touching a server took minutes instead of hours?  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Community Management Employee Training Portal — fully configured and ready to use - Slash comman
+# Community Management Employee Training Portal Plugin
+
+Professional employee training portal plugin built for community management operations and growth.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMeVdfXx5wgbRS7jCcZJ3p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMeVdfXx5wgbRS7jCcZJ3p)
+
